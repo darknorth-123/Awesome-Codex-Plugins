@@ -111,6 +111,7 @@ Inspired by the growing ecosystem around AI-powered development workflows, this 
 | **[Taisly Agent Kit](https://github.com/taisly/agent)** | Publish short-form videos to TikTok, Instagram Reels, YouTube Shorts, X, and Facebook from Codex through Taisly. | Social video publishing, launch clips, creator workflows | `MCP` `Social Media` `Video Publishing` |
 | **Composio** | Connects OpenAI Codex to thousands of apps and APIs through MCP servers. | Autonomous workflows, integrations, automation | `MCP` `Automation` `Integrations` |
 | **[Hermes Tweet](Plugins/Hermes%20Tweet/)** | Native Hermes Agent plugin for X/Twitter research, monitoring, drafting, and approved actions. | Social listening, tweet drafts, reply monitoring, follower exports | `Hermes Agent` `Twitter` `Social Media` `Automation` |
+| **[NotFair](https://github.com/nowork-studio/NotFair)** | Local marketing goal agents that run on Codex and connect to hosted MCP servers for Google Ads, Meta Ads, X Ads, Google Search Console, and Google Analytics. | Paid-media audits, approval-gated campaign changes, SEO monitoring, cross-channel reporting | `Codex` `MCP` `Marketing` `Automation` |
 | **[RunAPI MCP](https://github.com/runapi-ai/mcp)** | MCP server for running image, video, music/audio, and model API tasks through RunAPI. | Media generation, model API workflows, Codex integrations | `MCP` `AI` `Media` `Integrations` |
 
 ---
