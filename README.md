@@ -108,6 +108,7 @@ Inspired by the growing ecosystem around AI-powered development workflows, this 
 
 | Plugin | Description | Use Cases | Tags |
 |---|---|---|---|
+| **[BulkPublish MCP](https://github.com/azeemkafridi/bulkpublish-api)** | Approval-gated multi-channel social scheduling and publishing for Codex and other AI agents through BulkPublish's API and hosted MCP. | Social publishing, content approval, campaign distribution | `MCP` `Social Media` `Publishing` |
 | **[Taisly Agent Kit](https://github.com/taisly/agent)** | Publish short-form videos to TikTok, Instagram Reels, YouTube Shorts, X, and Facebook from Codex through Taisly. | Social video publishing, launch clips, creator workflows | `MCP` `Social Media` `Video Publishing` |
 | **Composio** | Connects OpenAI Codex to thousands of apps and APIs through MCP servers. | Autonomous workflows, integrations, automation | `MCP` `Automation` `Integrations` |
 | **[Hermes Tweet](Plugins/Hermes%20Tweet/)** | Native Hermes Agent plugin for X/Twitter research, monitoring, drafting, and approved actions. | Social listening, tweet drafts, reply monitoring, follower exports | `Hermes Agent` `Twitter` `Social Media` `Automation` |
