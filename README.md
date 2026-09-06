@@ -83,6 +83,7 @@ Inspired by the growing ecosystem around AI-powered development workflows, this 
 | **Agent Message Queue** | File-based inter-agent messaging with federation and orchestrator integrations. | Agent coordination, workflow automation | `Agents` `Automation` `Coordination` |
 | **Orchestrator and Bug Fixer** | Workflow skills designed to improve debugging and development productivity. | Automated debugging, orchestration workflows | `Automation` `Debugging` `Agents` |
 | **[OpenAgentRelay](https://github.com/ShakespeareLabs/open-agent-relay)** | Publishes a restricted local Codex or other agent command as a keyed capability over a trusted LAN. | Team delegation, agent-to-agent calls, local capability sharing | `Codex` `CLI` `Agents` `Coordination` |
+| **[YYLO](https://github.com/yylo-dev/yylo)** | Command-line orchestrator for coding agents, repeatable workflows, and receipt-backed repository changes, with typed task, validation, merge, and release-readiness boundaries; each task works in a dedicated branch/worktree and the merge queue owns risk-based review. Installs via npm as @yylo/cli and orchestrates Pi and Codex subagents. | Parallel agent tasks, worktree isolation, governed merges | `Codex` `CLI` `Agents` `Orchestration` |
 
 ---
 
