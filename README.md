@@ -101,6 +101,7 @@ Inspired by the growing ecosystem around AI-powered development workflows, this 
 | **Codex Mem** | Persistent memory system for Codex across sessions. | Context preservation, session continuity | `Memory` `Context` `Productivity` |
 | **[AccInt](https://github.com/maxbaluev/accreted-intelligence)** | Local-first MCP Work Model for Codex and coding agents with scored retrieval, commitments, and outcome-based credit. | Agent memory, cross-session learning, accountable autonomous workflows | `MCP` `Memory` `Codex` |
 | **[Tree Ring Memory](https://github.com/TerminallyLazy/tree-ring-memory-codex-plugin)** | Codex plugin wrapper for local-first agent memory lifecycle guidance. | Recall, evidence-backed lessons, privacy-safe memory capture, audit, consolidation, forgetting | `Memory` `Context` `Codex` |
+| **[Hyperconsciousness](https://github.com/louis030195/hyperconsciousness)** | Developer-alpha encrypted, append-only knowledge store with MCP access and a Codex skill; build from source. | Persistent knowledge retrieval through scoped, expiring grants | `MCP` `Memory` `Codex` |
 
 ---
 
