@@ -83,6 +83,7 @@ Inspired by the growing ecosystem around AI-powered development workflows, this 
 | **Agent Message Queue** | File-based inter-agent messaging with federation and orchestrator integrations. | Agent coordination, workflow automation | `Agents` `Automation` `Coordination` |
 | **Orchestrator and Bug Fixer** | Workflow skills designed to improve debugging and development productivity. | Automated debugging, orchestration workflows | `Automation` `Debugging` `Agents` |
 | **[OpenAgentRelay](https://github.com/ShakespeareLabs/open-agent-relay)** | Publishes a restricted local Codex or other agent command as a keyed capability over a trusted LAN. | Team delegation, agent-to-agent calls, local capability sharing | `Codex` `CLI` `Agents` `Coordination` |
+| **[Tale](https://github.com/tale-project/tale)** | Project workspace that runs delegated Codex tasks in persistent sandboxes and collects reports and deliverables for review. | Team task delegation, persistent agent context, shared review | `Codex` `Agents` `Collaboration` |
 
 ---
 
