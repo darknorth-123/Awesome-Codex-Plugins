@@ -83,6 +83,7 @@ Inspired by the growing ecosystem around AI-powered development workflows, this 
 | **Agent Message Queue** | File-based inter-agent messaging with federation and orchestrator integrations. | Agent coordination, workflow automation | `Agents` `Automation` `Coordination` |
 | **Orchestrator and Bug Fixer** | Workflow skills designed to improve debugging and development productivity. | Automated debugging, orchestration workflows | `Automation` `Debugging` `Agents` |
 | **[OpenAgentRelay](https://github.com/ShakespeareLabs/open-agent-relay)** | Publishes a restricted local Codex or other agent command as a keyed capability over a trusted LAN. | Team delegation, agent-to-agent calls, local capability sharing | `Codex` `CLI` `Agents` `Coordination` |
+| **[Multi-LLM](https://github.com/beastlabai/multi-llm-plugin)** | Native Codex plugin for parallel reviews across 19 coding CLIs, with validated findings and automated revision. | Plan and commit reviews, task generation, implementation | `Codex` `Code Review` `Orchestration` |
 
 ---
 
