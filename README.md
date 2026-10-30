@@ -112,6 +112,7 @@ Inspired by the growing ecosystem around AI-powered development workflows, this 
 | **Composio** | Connects OpenAI Codex to thousands of apps and APIs through MCP servers. | Autonomous workflows, integrations, automation | `MCP` `Automation` `Integrations` |
 | **[Hermes Tweet](Plugins/Hermes%20Tweet/)** | Native Hermes Agent plugin for X/Twitter research, monitoring, drafting, and approved actions. | Social listening, tweet drafts, reply monitoring, follower exports | `Hermes Agent` `Twitter` `Social Media` `Automation` |
 | **[RunAPI MCP](https://github.com/runapi-ai/mcp)** | MCP server for running image, video, music/audio, and model API tasks through RunAPI. | Media generation, model API workflows, Codex integrations | `MCP` `AI` `Media` `Integrations` |
+| **[CurlShot MCP](https://github.com/SergiuPogor/curlshot-mcp)** | Hosted MCP server and agent skill that let Codex take screenshots, PDFs, or scrolling videos of web pages through the CurlShot API. | Checking rendered pages, full-page and mobile captures, HTML or Markdown to PDF | `MCP` `Skill` `Screenshots` `Integrations` |
 
 ---
 
