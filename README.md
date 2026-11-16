@@ -116,6 +116,7 @@ Inspired by the growing ecosystem around AI-powered development workflows, this 
 | **[Hermes Tweet](Plugins/Hermes%20Tweet/)** | Native Hermes Agent plugin for X/Twitter research, monitoring, drafting, and approved actions. | Social listening, tweet drafts, reply monitoring, follower exports | `Hermes Agent` `Twitter` `Social Media` `Automation` |
 | **[NotFair](https://github.com/nowork-studio/NotFair)** | Local marketing goal agents that run on Codex and connect to hosted MCP servers for Google Ads, Meta Ads, X Ads, Google Search Console, and Google Analytics. | Paid-media audits, approval-gated campaign changes, SEO monitoring, cross-channel reporting | `Codex` `MCP` `Marketing` `Automation` |
 | **[RunAPI MCP](https://github.com/runapi-ai/mcp)** | MCP server for running image, video, music/audio, and model API tasks through RunAPI. | Media generation, model API workflows, Codex integrations | `MCP` `AI` `Media` `Integrations` |
+| **[OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio)** | Local-first TypeScript CLI, MCP toolkit, and agent skills for editable video composition. | Agent-driven video planning, editing, generation, and rendering | `Codex` `CLI` `MCP` `Video` |
 | **[CurlShot MCP](https://github.com/SergiuPogor/curlshot-mcp)** | Hosted MCP server and agent skill that let Codex take screenshots, PDFs, or scrolling videos of web pages through the CurlShot API. | Checking rendered pages, full-page and mobile captures, HTML or Markdown to PDF | `MCP` `Skill` `Screenshots` `Integrations` |
 
 ---
