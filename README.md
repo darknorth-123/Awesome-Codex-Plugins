@@ -83,6 +83,7 @@ Inspired by the growing ecosystem around AI-powered development workflows, this 
 | **Agent Message Queue** | File-based inter-agent messaging with federation and orchestrator integrations. | Agent coordination, workflow automation | `Agents` `Automation` `Coordination` |
 | **Orchestrator and Bug Fixer** | Workflow skills designed to improve debugging and development productivity. | Automated debugging, orchestration workflows | `Automation` `Debugging` `Agents` |
 | **[OpenAgentRelay](https://github.com/ShakespeareLabs/open-agent-relay)** | Publishes a restricted local Codex or other agent command as a keyed capability over a trusted LAN. | Team delegation, agent-to-agent calls, local capability sharing | `Codex` `CLI` `Agents` `Coordination` |
+| **[Multi-LLM](https://github.com/beastlabai/multi-llm-plugin)** | Native Codex plugin for parallel reviews across 19 coding CLIs, with validated findings and automated revision. | Plan and commit reviews, task generation, implementation | `Codex` `Code Review` `Orchestration` |
 
 ---
 
@@ -101,6 +102,7 @@ Inspired by the growing ecosystem around AI-powered development workflows, this 
 | **Codex Mem** | Persistent memory system for Codex across sessions. | Context preservation, session continuity | `Memory` `Context` `Productivity` |
 | **[AccInt](https://github.com/maxbaluev/accreted-intelligence)** | Local-first MCP Work Model for Codex and coding agents with scored retrieval, commitments, and outcome-based credit. | Agent memory, cross-session learning, accountable autonomous workflows | `MCP` `Memory` `Codex` |
 | **[Tree Ring Memory](https://github.com/TerminallyLazy/tree-ring-memory-codex-plugin)** | Codex plugin wrapper for local-first agent memory lifecycle guidance. | Recall, evidence-backed lessons, privacy-safe memory capture, audit, consolidation, forgetting | `Memory` `Context` `Codex` |
+| **[Hyperconsciousness](https://github.com/louis030195/hyperconsciousness)** | Developer-alpha encrypted, append-only knowledge store with MCP access and a Codex skill; build from source. | Persistent knowledge retrieval through scoped, expiring grants | `MCP` `Memory` `Codex` |
 
 ---
 
@@ -108,11 +110,14 @@ Inspired by the growing ecosystem around AI-powered development workflows, this 
 
 | Plugin | Description | Use Cases | Tags |
 |---|---|---|---|
+| **[BulkPublish MCP](https://github.com/azeemkafridi/bulkpublish-api)** | Approval-gated multi-channel social scheduling and publishing for Codex and other AI agents through BulkPublish's API and hosted MCP. | Social publishing, content approval, campaign distribution | `MCP` `Social Media` `Publishing` |
 | **[Taisly Agent Kit](https://github.com/taisly/agent)** | Publish short-form videos to TikTok, Instagram Reels, YouTube Shorts, X, and Facebook from Codex through Taisly. | Social video publishing, launch clips, creator workflows | `MCP` `Social Media` `Video Publishing` |
 | **Composio** | Connects OpenAI Codex to thousands of apps and APIs through MCP servers. | Autonomous workflows, integrations, automation | `MCP` `Automation` `Integrations` |
 | **[Hermes Tweet](Plugins/Hermes%20Tweet/)** | Native Hermes Agent plugin for X/Twitter research, monitoring, drafting, and approved actions. | Social listening, tweet drafts, reply monitoring, follower exports | `Hermes Agent` `Twitter` `Social Media` `Automation` |
+| **[NotFair](https://github.com/nowork-studio/NotFair)** | Local marketing goal agents that run on Codex and connect to hosted MCP servers for Google Ads, Meta Ads, X Ads, Google Search Console, and Google Analytics. | Paid-media audits, approval-gated campaign changes, SEO monitoring, cross-channel reporting | `Codex` `MCP` `Marketing` `Automation` |
 | **[RunAPI MCP](https://github.com/runapi-ai/mcp)** | MCP server for running image, video, music/audio, and model API tasks through RunAPI. | Media generation, model API workflows, Codex integrations | `MCP` `AI` `Media` `Integrations` |
 | **[OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio)** | Local-first TypeScript CLI, MCP toolkit, and agent skills for editable video composition. | Agent-driven video planning, editing, generation, and rendering | `Codex` `CLI` `MCP` `Video` |
+| **[CurlShot MCP](https://github.com/SergiuPogor/curlshot-mcp)** | Hosted MCP server and agent skill that let Codex take screenshots, PDFs, or scrolling videos of web pages through the CurlShot API. | Checking rendered pages, full-page and mobile captures, HTML or Markdown to PDF | `MCP` `Skill` `Screenshots` `Integrations` |
 
 ---
 
