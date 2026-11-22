@@ -120,6 +120,7 @@ Inspired by the growing ecosystem around AI-powered development workflows, this 
 | **[RunAPI MCP](https://github.com/runapi-ai/mcp)** | MCP server for running image, video, music/audio, and model API tasks through RunAPI. | Media generation, model API workflows, Codex integrations | `MCP` `AI` `Media` `Integrations` |
 | **[OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio)** | Local-first TypeScript CLI, MCP toolkit, and agent skills for editable video composition. | Agent-driven video planning, editing, generation, and rendering | `Codex` `CLI` `MCP` `Video` |
 | **[CurlShot MCP](https://github.com/SergiuPogor/curlshot-mcp)** | Hosted MCP server and agent skill that let Codex take screenshots, PDFs, or scrolling videos of web pages through the CurlShot API. | Checking rendered pages, full-page and mobile captures, HTML or Markdown to PDF | `MCP` `Skill` `Screenshots` `Integrations` |
+| **[DC Hub](https://github.com/azmartone67/dchub-mcp-server)** | Orchestration layer for data center and energy intelligence through a hosted MCP server (`https://dchub.cloud/mcp`): Codex calls `execute_plan` first for dated, cited answers, including the Data Center Power Index (DCPI). `DCHUB_API_KEY` is optional. | Data center, colocation, energy, power grid, fiber, site selection and capacity research | `MCP` `Energy` `Data` `Integrations` |
 
 ---
 
