@@ -120,6 +120,7 @@ Inspired by the growing ecosystem around AI-powered development workflows, this 
 | **[RunAPI MCP](https://github.com/runapi-ai/mcp)** | MCP server for running image, video, music/audio, and model API tasks through RunAPI. | Media generation, model API workflows, Codex integrations | `MCP` `AI` `Media` `Integrations` |
 | **[OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio)** | Local-first TypeScript CLI, MCP toolkit, and agent skills for editable video composition. | Agent-driven video planning, editing, generation, and rendering | `Codex` `CLI` `MCP` `Video` |
 | **[CurlShot MCP](https://github.com/SergiuPogor/curlshot-mcp)** | Hosted MCP server and agent skill that let Codex take screenshots, PDFs, or scrolling videos of web pages through the CurlShot API. | Checking rendered pages, full-page and mobile captures, HTML or Markdown to PDF | `MCP` `Skill` `Screenshots` `Integrations` |
+| **[QuestionPunk for Codex](https://github.com/questionpunk/codex-plugin)** | Draft surveys in Codex and open them in QuestionPunk without signing in. Connect an account to save and publish studies or analyze results you have permission to read. | Import an existing questionnaire, review survey wording, or set up a text or voice interview with follow-up questions. | `Codex` `MCP` `Skill` `Surveys` |
 
 ---
 
